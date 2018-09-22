@@ -10,8 +10,9 @@ Welcome on the public github for the HAMR 2018 edition at Deezer HQ
 Teams should submit their contribution in the form of a *pull request* to this repository with following structure:
 
 * root_folder:
-    * src folder with you code
-    * doc folder with the documentation
+    * your_project_folder:
+      * src folder with you code
+      * doc folder with the documentation
 
 Contributions are allowed until Sept. 22 at 5pm where the hacking officially stops
 
